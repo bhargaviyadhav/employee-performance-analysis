@@ -1,4 +1,4 @@
-Employee_ID,Name,Gender,Departmant,City,Salay,Experience,
+Employee_ID,Name,Gender,Departmant,City,Salary,Experience,
 101,Ravi,Male,IT,Bangalore,25000,2,
 102,Priya,Female,HR,Hyderabad,30000,2,
 104,kumar,Female,Sales,Bangalore,20000,3,
