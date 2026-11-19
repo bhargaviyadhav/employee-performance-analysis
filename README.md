@@ -49,7 +49,7 @@ Queries included:
 - Employees working in Bangalore.
 - Department wise employee count.
 - Average salary of employees.
-- Salary analysis by department.
+- Employees with experience above 2 years.
 
 ## 📈 Power BI Dashboard
 The dashboard includes:
