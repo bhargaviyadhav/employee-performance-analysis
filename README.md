@@ -53,12 +53,11 @@ Queries included:
 
 ## 📈 Power BI Dashboard
 The dashboard includes:
-- Total Employees
-- Average Salary
-- Department-wise Employee Count
-- Salary by Department
-- Employee Performance
-- Employee Distribution by City
+- Employees by Department-Pie Chart.
+- Total Employees-Card Visual.
+- Average Salary by Gander-Column Chart.
+- Department-Wise Salary-Bar Chart.
+- Employee by City-Donut Chart.
 
 ## 💡 Key Insights
 - Identified departments with the highest number of employees.
