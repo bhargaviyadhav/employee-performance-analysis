@@ -44,11 +44,11 @@ The following data cleaning steps were performed using Python and Pandas:
 SQL was used to analyze employee data and answer business questions.
 
 Queries included:
-- Total number of employees.
+- Employees with salary above 50000.
+- Employees salary sorting in ascending order.
+- Employees working in Bangalore.
+- Department wise employee count.
 - Average salary of employees.
-- Department-wise employee count.
-- Highest and lowest salary.
-- Employees with more experience.
 - Salary analysis by department.
 
 ## 📈 Power BI Dashboard
