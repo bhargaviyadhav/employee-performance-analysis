@@ -35,9 +35,9 @@ The dataset contains **200 employee records** with details such as:
 The following data cleaning steps were performed using Python and Pandas:
 - Checked for missing values.
 - Removed duplicate records.
-- Checked column names.
 - Corrected data types.
-- Cleaned unnecessary columns.
+- Verified the cleaned data.
+- Checked for duplicate rows.
 - Prepared the dataset for analysis.
 
 ## 🗄️ SQL Analysis
