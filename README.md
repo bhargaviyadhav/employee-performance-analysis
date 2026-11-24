@@ -59,13 +59,6 @@ The dashboard includes:
 - Department-Wise Salary-Bar Chart.
 - Employee by City-Donut Chart.
 
-## 💡 Key Insights
-- Identified departments with the highest number of employees.
-- Analyzed average salary across departments.
-- Compared employee performance ratings.
-- Identified salary distribution across different job roles.
-- Analyzed employee experience.
-
 ## ✅ Conclusion
 This project helped me improve my skills in data cleaning, data analysis, SQL queries, Excel, Python, and Power BI dashboard creation.
 
